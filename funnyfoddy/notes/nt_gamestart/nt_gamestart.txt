@@ -1,0 +1,57 @@
+first it shows the gamemaker studio splashscreen
+
+then it has a pop-up saying something like
+"playing the original before playing this fan game is recommended"
+"would you like to play the 1985 classic Funny Game first?"
+                          Yes >No
+
+if you select yes you go in my remake of Funny Game
+	when you're in funny game and make it to one of the ends it says
+		"congrats on beating it! would you like to try for one of the other endings?"
+		                          >yes >no
+										selecting yes just loops the above
+										selecting no sends you to the main menu*
+	you can just quit it by selecting main menu/title in the pause menu*
+
+if you select no it sends you straight to the main menu*
+
+*before going to the main menu the screen goes black and has small
+white text that says "you can select classic mode from the extras menu"
+
+
+THE TITLE SCREEN IS:
+recreation of Getting Over It's background but instead of a hammer wedged in
+a rock, it's the pink guy. if you click continue, it does a backflip
+
+your choices are layed out like
+
+
+
+Continue (unless you haven't started yet)
+New Game
+Options
+Exit                          Extra
+                             (  ^ super small)
+
+
+
+
+
+
+
+
+
+whatever option you have currently active will be in bold text
+your options choices are layed out like
+
+voiceover  -----|----- (bennet foddy talking)
+music      -----|----- (game ending & bennet foddy's music)
+effects    -----|----- (i'm not sure what this would apply to)
+
+fullscreen (keeps the game window the same size but adds a white background that says LMAO in comic sans over and over)
+resolution (drop down menu with several resolution options)
+quality bad|good (good is default switching to bad makes the game look like ass)
+
+
+hard reset
+                        (warns before resetting)

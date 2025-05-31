@@ -1,0 +1,9 @@
+obj_checkpoint is where you respawn if you fall off the side. there is only one in the whole game
+obj_coin is the thing you collect, it works exactly like how it did in the original Funny Game; all 19(NOTE: 19 IS VERY WRONG) coins = ending. 0 coins = special ending
+obj_deathwall is different from how it worked before, instead of dying when you touch it you fall through all objects for like 2 seconds. (this can be used for a secret! (this is instead actually gonna be the botherwall idea))
+obj_ground is just the ground. nothing special unless you touch obj_deathwall obviously
+obj_player is you, physics and statistics are exactly the same as in Funny Game
+
+edit 9/25/2021: all/almost all of the ideas above are doggy doodoo
+edit 7/6/2022: what was the point in writing these down? this is stupid also what the fuck i almost worked on this game for a whole fucking YEAR?!?!?!
+edit 7/16/2023: hi guys how are you doing
